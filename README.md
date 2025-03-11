@@ -1,1 +1,2 @@
-# week6day2ObjectsPt.2
+# Week 6 Day 2
+## Objects Part 2
